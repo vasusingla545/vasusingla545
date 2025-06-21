@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vasusingla545&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vasusingla545&theme=github-dark&hide_border=false" />
 </p>
-### 📌 Most Used Languages
+<!-- ### 📌 Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasusingla545&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
