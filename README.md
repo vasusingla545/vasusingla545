@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mohit Anand</h1>
+<h1 align="center">Hey 👋, I'm Vasu Singla</h1>
 
 <p align="center">
   💻 Full Stack Developer | 🚀 AI Enthusiast | 🧠 Curious Learner <br>
